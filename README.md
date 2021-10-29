@@ -1,7 +1,5 @@
 # Tic Tac Toe
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
-
 This program is a console based tic tac toe game programmed in C++. The program is written for a player to play an algorithm, which currently isn't implemented.
 
 This program was meant to help brush up my skills in C++ syntax and at the same time give an attempt to a machine learnig algorithm.
@@ -12,7 +10,7 @@ This program was meant to help brush up my skills in C++ syntax and at the same 
 
 # Development Environment
 
-Visual STudio
+Visual Studio
 C++
 
 # Useful Websites
